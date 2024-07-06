@@ -32,12 +32,12 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import primetech from "./company/primetech.jpg"
 import mpair from "./company/mpair.png"
-import flightsNepal from "./flightsnepal.PNG"
-import cosmos from "./cosmos.PNG"
-import etryyp from "./etryyp.PNG"
-import parkview from "./parkview.PNG"
-import flydocx from "./flydocx.PNG"
-import itphonestore from "./itphonestore.PNG"
+import flightsNepal from "./flightsnepal.jpg"
+import cosmos from "./cosmos.jpg"
+import etryyp from "./etryyp.jpg"
+import parkview from "./parkview.jpg"
+import flydocx from "./flydocx.jpg"
+import itphonestore from "./itphonestore.jpg"
 
 export {
   logo,
