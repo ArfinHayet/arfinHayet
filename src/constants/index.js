@@ -276,10 +276,10 @@ const projects = [
   {
     name: "Appointment System",
     description:
-      "Online travel agency that allows users to search, book flights.",
+      "Appointment system for a reputed hospital.",
     tags: [
       {
-        name: "angular",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
@@ -324,7 +324,7 @@ const projects = [
   {
     name: "E-Commerce",
     description:
-      "Online travel agency that allows users to search, book flights.",
+      "Online e-commerce site admin control.",
     tags: [
       {
         name: "react",
