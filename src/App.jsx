@@ -19,6 +19,10 @@ const App = () => {
           <Contact />
           <StarsCanvas />
         </div>
+
+        <div className="contact-btn" onClick={() => window.open('https://web.whatsapp.com/send?phone=8801854652339&text=Hello%20there!', '_blank')}>
+          <img src="wp.png"/>
+        </div>
       </div>
     </BrowserRouter>
   );
